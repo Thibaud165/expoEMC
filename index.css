@@ -21,7 +21,7 @@
   --radius: 10px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-image: url("images/image.png");
+  background-image: url("images/Capturedcran2024-12-04183102.png");
   background-size: cover;
   transition-duration: 0.5s;
   box-shadow: 0px 0 24px 7px rgba(128,128,128,1);
@@ -134,6 +134,8 @@
 
 .u-section-2 .u-text-2 {
   line-height: 1.2;
+  font-size: 1.25rem;
+  font-weight: 700;
   margin: 21px 20px 0;
 }
 
@@ -227,6 +229,8 @@
 }
 
 .u-section-3 .u-text-2 {
+  font-size: 1.25rem;
+  font-weight: 700;
   margin: 20px 20px 0;
 }
 
@@ -311,6 +315,8 @@
 }
 
 .u-section-4 .u-text-2 {
+  font-size: 1.25rem;
+  font-weight: 700;
   margin: 20px 20px 0;
 }
 
@@ -392,6 +398,8 @@
 }
 
 .u-section-5 .u-text-2 {
+  font-size: 1.25rem;
+  font-weight: 700;
   margin: 20px 20px 0;
 }
 
@@ -470,6 +478,8 @@
 }
 
 .u-section-6 .u-text-2 {
+  font-size: 1.25rem;
+  font-weight: 700;
   margin: 20px 20px 0;
 }
 
@@ -492,10 +502,6 @@
 @media (max-width: 991px) {
   .u-section-6 .u-group-1 {
     margin-left: auto;
-  }
-
-  .u-section-6 .u-text-2 {
-    font-size: 1.25rem;
   }
 }
 
@@ -576,6 +582,8 @@
 }
 
 .u-section-7 .u-text-2 {
+  font-size: 1.25rem;
+  font-weight: 700;
   margin: 20px 20px 0;
 }
 
@@ -626,6 +634,18 @@
   padding: 0;
 }
 
+.u-section-7 .u-text-8 {
+  text-decoration: underline !important;
+  margin: 20px 20px 0;
+}
+
+.u-section-7 .u-btn-5 {
+  background-image: none;
+  font-weight: 700;
+  text-decoration: underline !important;
+  padding: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-7 .u-group-1 {
     height: auto;
@@ -652,6 +672,11 @@
   }
 
   .u-section-7 .u-text-7 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-7 .u-text-8 {
     margin-left: 0;
     margin-right: 0;
   }
@@ -682,10 +707,6 @@
 @media (max-width: 575px) {
   .u-section-7 .u-sheet-1 {
     min-height: 531px;
-  }
-
-  .u-section-7 .u-group-1 {
-    min-height: 481px;
   }
 
   .u-section-7 .u-container-layout-1 {
